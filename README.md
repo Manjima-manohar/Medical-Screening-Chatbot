@@ -14,5 +14,4 @@ AI-powered medical screening chatbot built with React, Django REST Framework, an
 - Warning signs
 - Educational disclaimer
 
-## Screenshots
 
